@@ -1,6 +1,6 @@
 # Spring Basics
 
-- SpringBoot
+- SpringBoot (springboot branch)
   - Spring Web (Run app - http://localhost:9090/hello?name=John)
-- SpringCore
-- SpringDevTools
+- SpringCore (springcore branch)
+- SpringDevTools (springdevtools branch)
