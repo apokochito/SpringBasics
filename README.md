@@ -1,20 +1,25 @@
 # Spring Basics
 
-### SpringBoot (springboot branch)
+### Modules
+
+- SpringBoot (springboot branch)
     - Spring Web (Run app - http://localhost:9090/hello?name=John)
-### Spring Core Container (springcore branch)
+- Spring Core Container (springcore branch)
     - 
-### Spring AOP and Instrumentation (aop branch)
+- Spring AOP and Instrumentation (aop branch)
     - AspectJ
-### Spring Messaging (messaging branch)
+- Spring Messaging (messaging branch)
     - 
-### Spring Data Access/Integration (access branch)
+- Spring Data Access/Integration (access branch)
     - 
-### Spring Web (web branch)
+- Spring Web (web branch)
     - 
-### Spring Test (test branch)
+- Spring Test (test branch)
     - JUnit
     - Mockito
     - TestNG
-### Spring DevTools (springdevtools branch)
+
+### Tools
+
+- Spring DevTools (springdevtools branch)
     - 
