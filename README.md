@@ -9,7 +9,7 @@
     - spring-context-support
     - spring-expression
     
-    From https://howtodoinjava.com/spring-core/
+    From https://howtodoinjava.com/spring-core/ and https://www.javaguides.net/p/spring-core-tutorial.html
     
 - Spring AOP and Instrumentation (**aop branch**)
     - AspectJ
