@@ -31,7 +31,7 @@
     
     From 
     
-- Spring Test (**test branch)
+- Spring Test (**test branch**)
     - JUnit
     - Mockito
     - TestNG
