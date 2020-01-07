@@ -4,11 +4,11 @@
 
 - Spring Core Container (**springcore branch**)
     - spring-core
-        - IoC Container
+        - IoC Containers
         - Dependency Injection
         - Annotations
     - spring-beans
-        - Bean Factory
+        - Bean Factory Container
         - Bean Post Processor
         - Autowire
         - Life Cycle
