@@ -4,10 +4,18 @@
 
 - Spring Core Container (**springcore branch**)
     - spring-core
+        - IoC Container
+        - Dependency Injection
+        - Annotations
     - spring-beans
+        - Bean Factory
+        - Bean Post Processor
+        - Autowire
+        - Life Cycle
     - spring-context
-    - spring-context-support
+        - Application Context Container
     - spring-expression
+        - SpEL
     
     From https://howtodoinjava.com/spring-core/ and https://www.javaguides.net/p/spring-core-tutorial.html
     
