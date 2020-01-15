@@ -2,7 +2,7 @@
 
 ### Modules
 
-- Spring Core Container (**springcore branch**)
+1. Spring Core Container (**springcore branch**)
     - spring-core
         - IoC Containers
         - Dependency Injection
@@ -19,35 +19,35 @@
     
     From https://howtodoinjava.com/spring-core/ and https://www.javaguides.net/p/spring-core-tutorial.html
     
-- Spring AOP and Instrumentation (**aop branch**)
+2. Spring AOP and Instrumentation (**aop branch**)
     - AspectJ
     
     From https://howtodoinjava.com/spring-aop-tutorial/
     
-- Spring Messaging (**messaging branch**)
+3. Spring Messaging (**messaging branch**)
     - 
     
     From
     
-- Spring Data Access/Integration (**access branch**)
+4. Spring Data Access/Integration (**access branch**)
     - 
     
     From https://howtodoinjava.com/spring-orm/, 
     
-- Spring Web (**web branch**)
+5. Spring Web (**web branch**)
     - 
     
     From 
     
-- Spring Test (**test branch**)
+6. Spring Test (**test branch**)
     - JUnit
     - Mockito
     - TestNG
 
 ### Tools
 
-- SpringBoot (**springboot branch**)
+1. SpringBoot (**springboot branch**)
     - Spring Web (Run app - http://localhost:9090/hello?name=John)
     
-- Spring DevTools (**springdevtools branch**)
+2. Spring DevTools (**springdevtools branch**)
     - 
