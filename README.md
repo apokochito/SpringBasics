@@ -46,7 +46,7 @@
 
 ### Tools
 
-1. SpringBoot (**springboot branch**)
+1. SpringBoot (**master branch**)
     - Spring Web (Run app - http://localhost:9090/hello?name=John)
     
 2. Spring DevTools (**springdevtools branch**)
